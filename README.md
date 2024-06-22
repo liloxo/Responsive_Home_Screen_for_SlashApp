@@ -1,16 +1,15 @@
 # responsive_home_screen_for_slashapp
+This project demonstrates a responsive home screen for SlashApp using Flutter.
 
-A new Flutter project.
 
-## Getting Started
+![Screenshot_1719048598](https://github.com/liloxo/Responsive_Home_Screen_for_SlashApp/assets/110819069/ed370472-8cf8-46bf-a879-c381a4692043)
+![Screenshot 2024-06-22 112144](https://github.com/liloxo/Responsive_Home_Screen_for_SlashApp/assets/110819069/7d82c51e-d073-4742-8795-a08b669e3cbb)
 
-This project is a starting point for a Flutter application.
+## Features
+- Responsive design for both mobile and web platforms.
+- Integration with GetIt for dependency injection.
+- Use of Cubits for state management.
+- Clean Architecture for better code organization and maintainability.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
